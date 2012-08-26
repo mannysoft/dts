@@ -1,4 +1,0 @@
-dts
-===
-
-Document Tracking System
